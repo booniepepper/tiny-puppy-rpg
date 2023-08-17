@@ -1,8 +1,8 @@
 # Tiny Puppy RPG
 
-<marquee>![tiny puppy](doggy-bounce.gif)</marquee>
+<marquee>![tiny puppy](https://raw.githubusercontent.com/booniepepper/tiny-puppy-rpg/core/tiny-puppy-rpg/doggy-bounce.gif)</marquee>
 
-[![tiny puppy rpg logo](tiny-puppy-rpg-logo.png)](https://booniepepper.itch.io/tiny-puppy-rpg)
+[![tiny puppy rpg logo](https://raw.githubusercontent.com/booniepepper/tiny-puppy-rpg/core/tiny-puppy-rpg/tiny-puppy-rpg-logo.png)](https://booniepepper.itch.io/tiny-puppy-rpg)
 
 [Play it here](https://booniepepper.itch.io/tiny-puppy-rpg)
 
